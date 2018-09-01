@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "infront-sqlAdminLogin": {
+      "value": "sqladmin"
+    },
+    "InfrontDataName": {
+      "value": "InfrontData"
+    },
+    "InfrontHostingPlanName": {
+      "value": "InfrontHostingPlan"
+    },
+    "InfrontHostingPlanSkuName": {
+      "value": "S1"
+    },
+    "infront-sqlAdminLoginPassword": {
+      "value": "Pa$$w0rd"
+    },
+    "environment": {
+      "value": "prod"
+    }
+  }
+}
