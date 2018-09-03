@@ -6,3 +6,5 @@ Proof of concept, Azure continuous integration and continuous deployment as part
 
 ### Release Pipeline Diagram
 ![Release Pipeline Diagram](https://raw.githubusercontent.com/icgid/poc-azure-ci-cd/master/diagrams/release-pipeline.png)
+
+We host our VSTS project as private project currently in [https://icgid.visualstudio.com](https://icgid.visualstudio.com).
